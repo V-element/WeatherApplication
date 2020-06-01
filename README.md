@@ -1,4 +1,4 @@
 # Weather Application
-Simple console application in java.
-Application parses weather from http://pogoda.spb.ru/ and prints information in console.
-Used Jsoup, Maven.
+<p>Simple console application in java.<\p>
+<p>Application parses weather from http://pogoda.spb.ru/ and prints information in console.<\p>
+<p>Used Jsoup, Maven.<\p>
